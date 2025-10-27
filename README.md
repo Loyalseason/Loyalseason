@@ -92,7 +92,6 @@ Backend system for tracking and managing documents developed at Ghana Cocoa Boar
 📍 **Location:** Thunder Bay, Canada  
 🔗 **LinkedIn:** [linkedin.com/in/emmanuelasante0](https://www.linkedin.com/in/emmanuelasante0)  
 🔗 **GitHub (Personal):** [github.com/Loyalseason](https://github.com/Loyalseason)  
-🔗 **GitHub (Work/Public Repos):** [github.com/Loyalseason-Coder](https://github.com/Loyalseason-Coder)  
 
 ---
 
