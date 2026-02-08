@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emmanuel Asante Amoabeng
 
-### 💻 Software Developer | Backend & Angular Enthusiast  
+### 💻 Software Developer | Backend Engineer
 
 I am a dedicated Software Developer with expertise in **backend systems, RESTful APIs, and full-stack web applications** using Angular, Node.js, and .NET.  
 I build **scalable, maintainable, and efficient software solutions** that deliver value and seamless user experiences.
